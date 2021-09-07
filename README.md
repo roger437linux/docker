@@ -1,5 +1,5 @@
 # docker
 
-![image](https://img.passeidireto.com/material/67038753/9134a7c0-3e2d-4988-9a55-e060af534e0f.png)
+![image](https://miro.medium.com/max/336/0*rmv6pZTW2hfP2XYd.png)
 
 # Arquivos para teste no Play with Docker
